@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Ori Sztyglic
+email: ori.sztyglic [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Deep learning and computer vision engineer with a B.Sc. in Computer and Software Engineering and an M.Sc. in Computer Science from the Technion. 
+  My graduate research focused on planning in partially observable domains. 
+  Passionate about reinforcement learning, music, and specialty coffee.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: orisz
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ori Sztyglic"
+  avatar : "/assets/images/image_darker.png"
+  bio    : "Deep learning and computer vision engineer. Passionate about planning, RL, music, and specialty coffee."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
