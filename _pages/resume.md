@@ -8,7 +8,7 @@ author_profile: true
 # Ori Sztyglic
 **Computer Vision & Deep Learning Algorithm Engineer**
 
-📧 [ori.sztyglic@gmail.com](mailto:ori.sztyglic@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ori-sztyglic) | 🔗 [GitHub](https://github.com/orisz) | 📱 050-6320342
+📧 [ori.sztyglic@gmail.com](mailto:ori.sztyglic@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ori-sztyglic) | 🔗 [GitHub](https://github.com/orisz)
 
 ---
 
@@ -149,7 +149,6 @@ Computer Vision & Deep Learning Algorithm Engineer with strong academic backgrou
 ## 📞 Contact Information
 
 **Email**: [ori.sztyglic@gmail.com](mailto:ori.sztyglic@gmail.com)  
-**Phone**: 050-6320342  
 **LinkedIn**: [linkedin.com/in/ori-sztyglic](https://www.linkedin.com/in/ori-sztyglic)  
 **GitHub**: [github.com/orisz](https://github.com/orisz)
 
