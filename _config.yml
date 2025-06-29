@@ -16,9 +16,9 @@
 title: Ori Sztyglic
 email: ori.sztyglic [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Deep learning and computer vision engineer with a B.Sc. in Computer and Software Engineering and an M.Sc. in Computer Science from the Technion. 
-  My graduate research focused on planning in partially observable domains. 
-  Passionate about reinforcement learning, music, and specialty coffee.
+  Computer Vision & Deep Learning Algorithm Engineer at Mobileye with expertise in POMDP planning, 
+  vision-language models, and autonomous systems. MSc Computer Science from Technion with published 
+  research in IJRR and IROS. Passionate about bridging theoretical AI research with real-world applications.
 twitter_username: username
 github_username: orisz
 minimal_mistakes_skin: dark
@@ -60,32 +60,31 @@ plugins:
 author:
   name   : "Ori Sztyglic"
   avatar : "/assets/images/image_darker.png"
-  bio    : "Deep learning and computer vision engineer. Passionate about planning, RL, music, and specialty coffee."
+  bio    : "Computer Vision & Deep Learning Algorithm Engineer at Mobileye. POMDP planning researcher. Bridging AI theory with real-world applications."
+  location: "Haifa, Israel"
+  employer: "Mobileye"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ori.sztyglic@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ori-sztyglic"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/orisz"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ori-sztyglic"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/orisz"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ori.sztyglic@gmail.com"
 
 defaults:
   # _posts
